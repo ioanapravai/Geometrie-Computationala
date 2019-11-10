@@ -1,0 +1,3 @@
+C:/ANUL2/GC/Acoperire_Convexa/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/ANUL2/GC/Acoperire_Convexa/cmake-build-debug/CMakeFiles/Acoperire_Convexa.dir
+C:/ANUL2/GC/Acoperire_Convexa/cmake-build-debug/CMakeFiles/rebuild_cache.dir
